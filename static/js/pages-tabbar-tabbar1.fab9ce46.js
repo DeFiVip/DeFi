@@ -599,7 +599,7 @@
             }, [t("v-uni-image", {
                 staticClass: "swiper-image",
                 attrs: {
-                    src: "http://metadefi.win/static/b1.jpg",
+                    src: "http://DEFI8.vip/static/b1.jpg",
                     mode: "aspectFill"
                 }
             })], 1), t("v-uni-swiper-item", {
@@ -612,7 +612,7 @@
             }, [t("v-uni-image", {
                 staticClass: "swiper-image",
                 attrs: {
-                    src: "http://metadefi.win/static/b2.jpg",
+                    src: "http://DEFI8.vip/static/b2.jpg",
                     mode: "aspectFill"
                 }
             })], 1), t("v-uni-swiper-item", {
@@ -625,7 +625,7 @@
             }, [t("v-uni-image", {
                 staticClass: "swiper-image",
                 attrs: {
-                    src: "http://metadefi.win/static/b3.jpg",
+                    src: "http://DEFI8.vip/static/b3.jpg",
                     mode: "aspectFill"
                 }
             })], 1)], 1)], 1), e.initing ? t("uni-load-more", {
@@ -1835,14 +1835,14 @@
                     this.items = [this.$t("tabbar1").stakeCoinName, this.$t("tabbar1").stakeLpName],
                     "zh-CN" == e ? (uni.setTabBarItem({
                         index: 0,
-                        text: "META"
+                        text: "DEFI"
                     }),
                     uni.setTabBarItem({
                         index: 1,
                         text: "挖矿"
                     })) : (uni.setTabBarItem({
                         index: 0,
-                        text: "META"
+                        text: "DEFI"
                     }),
                     uni.setTabBarItem({
                         index: 1,
