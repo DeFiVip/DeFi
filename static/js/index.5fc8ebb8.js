@@ -271,7 +271,7 @@
             e.__uniConfig = {
                 globalStyle: {
                     navigationBarTextStyle: "white",
-                    navigationBarTitleText: "META",
+                    navigationBarTitleText: "DEFI",
                     navigationBarBackgroundColor: "#2C405A",
                     backgroundColor: "#2C405A"
                 },
@@ -284,7 +284,7 @@
                         pagePath: "pages/tabbar/tabbar1",
                         iconPath: "./static/META.png",
                         selectedIconPath: "./static/META.png",
-                        text: "META",
+                        text: "DEFI",
                         redDot: !1,
                         badge: ""
                     }, {
@@ -424,7 +424,7 @@
                                 tabBarIndex: 0
                             }, __uniConfig.globalStyle, {
                                 navigationStyle: "custom",
-                                navigationBarTitleText: "META"
+                                navigationBarTitleText: "DEFI"
                             })
                         }, [e("pages-tabbar-tabbar1", {
                             slot: "page"
@@ -454,7 +454,7 @@
                                 tabBarIndex: 1
                             }, __uniConfig.globalStyle, {
                                 navigationStyle: "custom",
-                                navigationBarTitleText: "META"
+                                navigationBarTitleText: "DEFI"
                             })
                         }, [e("pages-tabbar-tabbar2", {
                             slot: "page"
@@ -483,7 +483,7 @@
                                 tabBarIndex: 2
                             }, __uniConfig.globalStyle, {
                                 navigationStyle: "custom",
-                                navigationBarTitleText: "META"
+                                navigationBarTitleText: "DEFI"
                             })
                         }, [e("pages-tabbar-tabbar3", {
                             slot: "page"
@@ -587,7 +587,7 @@
                         addpower: "add power",
                         whitePaper: "White Paper",
                         nftTip: "Click the character to authorize for the first time",
-                        minerInfo: "META Miner",
+                        minerInfo: "DEFI Miner",
                         minerStart: "Mining",
                         minerClaim: "Claim",
                         minerInvite: "Invite",
@@ -704,7 +704,7 @@
                         addpower: "增加算力",
                         whitePaper: "白皮书",
                         nftTip: "点击人物抽奖，第一次授权",
-                        minerInfo: "BNB 挖 META",
+                        minerInfo: "BNB 无损挖 DEFI",
                         minerStart: "挖矿中 ...",
                         minerClaim: "领取",
                         minerInvite: "邀请",
