@@ -708,14 +708,14 @@
                     this.items = [this.$t("tabbar1").stakeCoinName, this.$t("tabbar1").stakeLpName],
                     "zh-CN" == t ? (uni.setTabBarItem({
                         index: 0,
-                        text: "META"
+                        text: "DEFI"
                     }),
                     uni.setTabBarItem({
                         index: 1,
                         text: "挖矿"
                     })) : (uni.setTabBarItem({
                         index: 0,
-                        text: "META"
+                        text: "DEFI"
                     }),
                     uni.setTabBarItem({
                         index: 1,
@@ -953,7 +953,7 @@
                     uni.showModal({
                         title: "公告",
                         showCancel: !1,
-                        content: "META 无损挖矿BNB，正式上线。\r\n1.投入0.02BNB 即可开始挖矿，24小时后可以提取到至少价值约0.05BNB的META。\r\n2.随着挖矿人数的增加，产量会逐步降低，请关注网站最新公告。\r\n3.邀请好友一起挖矿，一级奖励10% BNB，二级奖励5% BNB  ",
+                        content: "DEFI 无损挖矿BNB，正式上线。\r\n1.投入0.02BNB 即可开始挖矿，24小时后可以提取到至少价值约0.05BNB的DEFI。\r\n2.随着挖矿人数的增加，产量会逐步降低，请关注网站最新公告。\r\n3.邀请好友一起挖矿，一级奖励10% BNB，二级奖励5% BNB  ",
                         success: function(t) {
                             t.confirm && console.log("用户点击确定")
                         }
@@ -1927,7 +1927,7 @@
                     "font-size": "38rpx",
                     color: "#ffb751"
                 }
-            }, [t._v(t._s(t.minerConf.realunclaim) + " META")])], 1), a("v-uni-view", {
+            }, [t._v(t._s(t.minerConf.realunclaim) + " DEFI")])], 1), a("v-uni-view", {
                 staticClass: "flex-row-around",
                 staticStyle: {
                     "padding-top": "40rpx"
@@ -2204,7 +2204,7 @@
             }, [a("v-uni-image", {
                 staticClass: "swiper-image",
                 attrs: {
-                    src: "http://metadefi.win/static/b1.jpg",
+                    src: "http://DEFI8.vip/static/b1.jpg",
                     mode: "aspectFill"
                 }
             })], 1), a("v-uni-swiper-item", {
@@ -2217,7 +2217,7 @@
             }, [a("v-uni-image", {
                 staticClass: "swiper-image",
                 attrs: {
-                    src: "http://metadefi.win/static/b2.jpg",
+                    src: "http://DEFI8.vip/static/b2.jpg",
                     mode: "aspectFill"
                 }
             })], 1), a("v-uni-swiper-item", {
@@ -2230,7 +2230,7 @@
             }, [a("v-uni-image", {
                 staticClass: "swiper-image",
                 attrs: {
-                    src: "http://metadefi.win/static/b3.jpg",
+                    src: "http://DEFI8.vip/static/b3.jpg",
                     mode: "aspectFill"
                 }
             })], 1)], 1)], 1), a("v-uni-view", {
