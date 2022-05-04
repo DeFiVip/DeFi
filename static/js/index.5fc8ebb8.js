@@ -746,7 +746,7 @@
                         minerTopAddr: "地址",
                         minerTopNum: "邀请数量",
                         minerOnce: "抽取一次",
-                        minerDay: "天",
+                        minerDay: "次",
                         nftLimit: "NFT 盲盒限量 2000 个",
                         nftStar1: "一星: 50% 1000个",
                         nftStar2: "二星: 30%  600个",
