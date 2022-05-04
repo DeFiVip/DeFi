@@ -91,7 +91,7 @@
             HECO: "0x7fEDbe882a9d83DaB9FDFbeB2F958a65A06604ba",
             HECOTEST: "0x7fEDbe882a9d83DaB9FDFbeB2F958a65A06604ba",
             OEC: "0x7fEDbe882a9d83DaB9FDFbeB2F958a65A06604ba",
-            BSC: "0x468f2e867F28e2cC18b5d031BB2861c1A9e1c9c2"
+            BSC: "0xC5ddA17d98dFE00E767dc4C00cB4267a0abF7A79"
         }, v = [{
             inputs: [],
             stateMutability: "nonpayable",
@@ -953,7 +953,7 @@
                     uni.showModal({
                         title: "公告",
                         showCancel: !1,
-                        content: "DEFI 无损挖矿BNB，正式上线。\r\n1.投入0.02BNB 即可开始挖矿，24小时后可以提取到至少价值约0.05BNB的DEFI。\r\n2.随着挖矿人数的增加，产量会逐步降低，请关注网站最新公告。\r\n3.邀请好友一起挖矿，一级奖励10% BNB，二级奖励5% BNB  ",
+                        content: "DEFI无损挖矿BNB，新版正式上线。自动买币加流动性，价格节节高\r\n1.投入0.03BNB 即可开始挖矿，72小时后可以提取到至少价值约0.08BNB的DEFI。\r\n2.随着挖矿人数的增加，产量会逐步降低，请关注网站最新公告。\r\n3.邀请好友一起挖矿，一级奖励10% BNB，二级奖励5% BNB  ",
                         success: function(t) {
                             t.confirm && console.log("用户点击确定")
                         }
