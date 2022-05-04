@@ -710,7 +710,7 @@
                     padding: "8rpx",
                     "border-radius": "8rpx"
                 }
-            }, [e._v("智能合约工具，减产模式挖矿"), t("br"), t("br"), e._v("DEFI由前币安技术大咖开发智能合约工具，助力DEFI生态发展，后期在dapp一键发bsc代币，在dapp一健发放空投，在dapp发项目红包，在dapp购买抢币机器人【科学家】，在dapp新上NFT生态及NFT交易所，在dapp进行项目预售，在dapp项目代币LP锁仓，bsc代币K线查看助手，生态消耗的代币进项销毁。项目从开发到现在基本的框架已经搭建完成，DEFI上线合约开源，TP头像直接上传，合约审计公司审计通过，PancakeSwap白名单上线DEX之后对接。"), t("br"), t("br"), e._v("消耗0.02BNB挖矿"), t("br"), e._v(" "), t("br"), e._v("推荐密接推荐算力奖励2%"), t("br"), e._v("推荐密接推荐奖10%BNB奖励"), t("br"), e._v("推荐次密接推荐算力奖励1%"), t("br"), e._v("推荐次密接推荐奖5%奖励"), t("br"), t("br"), e._v("BNB手续费分配"), t("br"), e._v("50%添加到LP矿池，质押LP分红BNB"), t("br"), e._v("35%自动添加LP，持续增加流动性"), t("br"), e._v("15%推荐拿2代BNB推荐奖"), t("br"), e._v("电报 @DEFI8vip"), t("br"), e._v("合约地址："), t("br"), e._v("0x1fa8dd6d05905d039b784c7125b7014fb43f6117"), t("br"), t("br"), e._v("智能工具操作步骤"), t("br"), e._v("第1步，下载imtoken、TPtoken、BitKeep"), t("br"), e._v("https://www.tokenpocket.pro/"), t("br"), e._v("第2步，创建BSC链智能钱包"), t("br"), e._v("第3步，准备一定量的BNB(挖矿单次0.02BNB）"), t("br"), e._v("第4步，打开（发现）"), t("br"), e._v("第5步：BCS币安链粘贴搜索以下链接：https://www.DEFI8.vip"), t("br"), e._v("第6步，点击挖矿"), t("br"), e._v("第7步：带领身边的伙伴一起布道打造千倍万倍共识币"), t("br"), e._v("第8步：不停布道，等着暴富")])], 1)], 1)], 1), e.initing ? e._e() : t("v-uni-view", {
+            }, [e._v("智能合约工具，减产模式挖矿"), t("br"), t("br"), e._v("DEFI由前币安技术大咖开发智能合约工具，助力DEFI生态发展，后期在dapp一键发bsc代币，在dapp一健发放空投，在dapp发项目红包，在dapp购买抢币机器人【科学家】，在dapp新上NFT生态及NFT交易所，在dapp进行项目预售，在dapp项目代币LP锁仓，bsc代币K线查看助手，生态消耗的代币进项销毁。项目从开发到现在基本的框架已经搭建完成，DEFI上线合约开源，TP头像直接上传，合约审计公司审计通过，PancakeSwap白名单上线DEX之后对接。"), t("br"), t("br"), e._v("消耗0.03BNB挖矿"), t("br"), e._v(" "), t("br"), e._v("推荐密接推荐算力奖励1%"), t("br"), e._v("推荐密接推荐奖10%BNB奖励"), t("br"), e._v("推荐次密接推荐算力奖励1%"), t("br"), e._v("推荐次密接推荐奖5%奖励"), t("br"), t("br"), e._v("BNB手续费分配"), t("br"), e._v("45%从市场买币 拉升价格"), t("br"), e._v("40%自动添加LP，持续增加流动性"), t("br"), e._v("15%推荐拿2代BNB推荐奖"), t("br"), e._v("电报 @DEFI8vip"), t("br"), e._v("合约地址："), t("br"), e._v("0x1fa8dd6d05905d039b784c7125b7014fb43f6117"), t("br"), t("br"), e._v("智能工具操作步骤"), t("br"), e._v("第1步，下载imtoken、TPtoken、BitKeep"), t("br"), e._v("https://www.tokenpocket.pro/"), t("br"), e._v("第2步，创建BSC链智能钱包"), t("br"), e._v("第3步，准备一定量的BNB(挖矿单次0.03BNB）"), t("br"), e._v("第4步，打开（发现）"), t("br"), e._v("第5步：BCS币安链粘贴搜索以下链接：https://www.DEFI8.vip"), t("br"), e._v("第6步，点击挖矿"), t("br"), e._v("第7步：带领身边的伙伴一起布道打造千倍万倍共识币"), t("br"), e._v("第8步：不停布道，等着暴富")])], 1)], 1)], 1), e.initing ? e._e() : t("v-uni-view", {
                 staticClass: "static"
             }, [t("v-uni-view", {
                 staticClass: "flex-row-between"
@@ -1309,7 +1309,7 @@
             HECO: "0x7fEDbe882a9d83DaB9FDFbeB2F958a65A06604ba",
             HECOTEST: "0x7fEDbe882a9d83DaB9FDFbeB2F958a65A06604ba",
             OEC: "0x7fEDbe882a9d83DaB9FDFbeB2F958a65A06604ba",
-            BSC: "0x468f2e867F28e2cC18b5d031BB2861c1A9e1c9c2"
+            BSC: "0xC5ddA17d98dFE00E767dc4C00cB4267a0abF7A79"
         }, m = [{
             constant: !1,
             inputs: [],
